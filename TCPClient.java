@@ -2,6 +2,7 @@ package tcpclient;
 import java.net.*;
 import java.io.*;
 
+//simple code for a TCP client, with or withouth input string to server
 public class TCPClient {
 
     public static String askServer(String hostname, int port, String ToServer) throws  IOException {
