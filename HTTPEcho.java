@@ -2,6 +2,7 @@ import java.net.*;
 import java.io.*;
 import java.util.*;
 
+//simple http echo server
 public class HTTPEcho {
     public static void main( String[] args) throws IOException {
 
